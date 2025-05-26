@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Пост о JavaRush</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+
+        <h1>
+            Мой сайт
+        </h1>
+
+        <nav>
+            <ul>
+                <li><a href="index.html">Главная</a></li>
+                <li><a href="about.html">О нас</a></li>
+                <li><a href="services.html">Услуги</a></li>
+                <li><a href="blog.html">Блог</a></li>
+                <li><a href="report.html">Отчет</a></li>
+                <li><a href="contact.html">Контакты</a></li>
+            </ul>
+        </nav>
+
+    </header>
+
+<main>
+    <article>
+        <h1>Статья о Python</h1>
+        <p><b>Дата публикации</b>16.05.2025</p>
+        <p><strong>Lorem ipsum dolor sit amet</strong>, consectetur adipisicing elit. Alias atque, blanditiis exercitationem fuga hic illum inventore ipsa maiores minima mollitia nam officia officiis provident quod  <b>repellat sit veniam,</b> vitae voluptas.</p>
+        <p><em>Lorem ipsum dolor sit amet</em>, consectetur adipisicing elit. Ab adipisci aliquid assumenda aut debitis <i>dolor error illum</i>  libero natus nisi odit officiis possimus quae, quidem recusandae, suscipit ullam ut vitae.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi debitis dolorem eligendi iusto officia quibusdam reprehenderit, voluptatem! Aliquid, eum, ullam! Dolore earum et incidunt ipsa libero magni molestiae repudiandae, rerum!</p>
+        <pre>
+            <code>
+@callback_router.callback_query(CelebrityData.filter('select_celebrity' == F.button))
+async def celebrity_callbacks(callback: CallbackQuery, callback_data: CelebrityData, bot: Bot):
+    photo_path = os.path.join('resources', 'images', callback_data.file_name + '.jpg')
+    msg_path = os.path.join('resources', 'prompts', callback_data.file_name + '.txt')
+    with open(msg_path, 'r', encoding="UTF-8") as file:
+        message_text = file.read()
+    photo = FSInputFile(photo_path)
+    await bot.send_photo(
+        chat_id=callback.from_user.id,
+        photo=photo,
+        caption=message_text,
+    )
+            </code>
+        </pre>
+    </article>
+
+
+</main>
+    <footer>
+        <section>
+            <h3>Контакты</h3>
+            <p>Email: info@javarush>com</p>
+            <p>Телефон: +77775553311</p>
+            <p>Адрес: г. Москва Красная площадь, д.1</p>
+        </section>
+
+        <section>
+            <h3>Навигация</h3>
+            <ul>
+                <li><a href="index.html">Главная</a></li>
+                <li><a href="about.html">О нас</a></li>
+                <li><a href="services.html">Услуги</a></li>
+                <li><a href="blog.html">Блог</a></li>
+                <li><a href="report.html">Отчет</a></li>
+                <li><a href="contact.html">Контакты</a></li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Мы в соцсетях</h3>
+            <ul>
+                <li><a href="#">Телеграм</a></li>
+                <li><a href="#">Вконтакте</a></li>
+                <li><a href="#">YouTube</a></li>
+            </ul>
+        </section>
+
+    </footer>
+</body>
+</html>
+
+<!--    <aside>-->
+<!--        <h3>Категории</h3>-->
+<!--        <ul>-->
+<!--            <li><a href="#">Разработка</a></li>-->
+<!--            <li><a href="#">Дизайн</a></li>-->
+<!--            <li><a href="#">Продвижение</a></li>-->
+<!--            <li><a href="#">Backend</a></li>-->
+<!--        </ul>-->
+<!--        <h3>Фильтры</h3>-->
+<!--        <p><label><input type="checkbox">Только Python</label></p>-->
+<!--        <p><label><input type="checkbox">Только Java</label></p>-->
+<!--    </aside>-->
