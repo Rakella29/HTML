@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="eba042df-6ec8-40f5-8017-0f7b4baedb3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HTML_Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/script1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/script2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/script3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/script4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/script5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/script6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,28 +25,43 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Rakella29&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Rakella29/HTML.git&quot;,
+    &quot;accountId&quot;: &quot;ffd81f89-c61f-464a-b354-5728d6e7eee5&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2xe4S2J2GQzKTqYeChfhWZ3SLgc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\HR\PycharmProjects\HTML_Project\HTML" />
