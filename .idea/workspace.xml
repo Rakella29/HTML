@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eba042df-6ec8-40f5-8017-0f7b4baedb3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JS/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/script1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/script2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/script3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/script4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/script5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/script6.js" afterDir="false" />
+    <list default="true" id="eba042df-6ec8-40f5-8017-0f7b4baedb3f" name="Changes" comment="js">
+      <change afterPath="$PROJECT_DIR$/JS2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS2/step01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS2/step2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS2/step3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS2/step4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS2/step5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS2/step6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS2/step7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS2/step8.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -82,6 +82,30 @@
       <option name="presentableId" value="Default" />
       <updated>1748285202622</updated>
     </task>
+    <task id="LOCAL-00001" summary="js">
+      <option name="closed" value="true" />
+      <created>1749375249336</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749375249336</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="js" />
+    <option name="LAST_COMMIT_MESSAGE" value="js" />
   </component>
 </project>
