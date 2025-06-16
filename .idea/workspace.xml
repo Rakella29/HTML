@@ -4,22 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eba042df-6ec8-40f5-8017-0f7b4baedb3f" name="Changes" comment="js1">
-      <change afterPath="$PROJECT_DIR$/JS3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS3/step1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS3/step10.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS3/step11.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS3/step12.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS3/step2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS3/step3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS3/step4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS3/step5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS3/step6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS3/step7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS3/step8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS3/step9.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HTML_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HTML_JS_Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="eba042df-6ec8-40f5-8017-0f7b4baedb3f" name="Changes" comment="js3">
+      <change afterPath="$PROJECT_DIR$/JS4/step.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS4/step1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS4/step2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS4/step3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS4/step4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS4/step5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS4/step6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS4/step7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS4/step8.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -122,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749575941161</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="js3">
+      <option name="closed" value="true" />
+      <created>1750081571251</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750081571251</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +142,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="js" />
     <MESSAGE value="js1" />
-    <option name="LAST_COMMIT_MESSAGE" value="js1" />
+    <MESSAGE value="js3" />
+    <option name="LAST_COMMIT_MESSAGE" value="js3" />
   </component>
 </project>
