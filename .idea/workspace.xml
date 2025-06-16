@@ -4,16 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eba042df-6ec8-40f5-8017-0f7b4baedb3f" name="Changes" comment="js">
-      <change afterPath="$PROJECT_DIR$/JS2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS2/step01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS2/step2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS2/step3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS2/step4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS2/step5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS2/step6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS2/step7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS2/step8.js" afterDir="false" />
+    <list default="true" id="eba042df-6ec8-40f5-8017-0f7b4baedb3f" name="Changes" comment="js1">
+      <change afterPath="$PROJECT_DIR$/JS3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS3/step1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS3/step10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS3/step11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS3/step12.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS3/step2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS3/step3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS3/step4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS3/step5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS3/step6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS3/step7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS3/step8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS3/step9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HTML_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HTML_JS_Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,12 +30,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="js2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -58,7 +69,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;js3&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
@@ -66,6 +77,11 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\HR\PycharmProjects\HTML_Project\HTML" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="step3" />
+    </option>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -90,7 +106,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749375249336</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="js1">
+      <option name="closed" value="true" />
+      <created>1749575926296</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749575926298</updated>
+    </task>
+    <task id="LOCAL-00003" summary="js1">
+      <option name="closed" value="true" />
+      <created>1749575941161</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749575941161</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="js" />
-    <option name="LAST_COMMIT_MESSAGE" value="js" />
+    <MESSAGE value="js1" />
+    <option name="LAST_COMMIT_MESSAGE" value="js1" />
   </component>
 </project>
